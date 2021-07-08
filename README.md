@@ -3,7 +3,7 @@
 # Version 1
 
  - the client can easily read and sign their contract directly on the platform;
- - an e-mail is send to the each part (client and provider) with the PDF contract file;
+ - an e-mail is sent to both party's (client and provider) with the PDF contract file;
  - each page has footer with the signature;
  - good pagination of the contract;
  - if `overview.php` is accessed from phone, the contract will be automatically downloaded as a PDF file;
